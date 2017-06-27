@@ -1,17 +1,18 @@
 .studentA {
     float: left;
 
-    margin-right: 5px;
-    
+    margin-right: 3px;
+    padding: 7px;
+
     background-color: pink;
     color: red;
-
 }
 
 .studentB {
     float: left;
 
-    margin-left: 5px;
+    margin-left: 7px;
+    padding: 3px;
 
     background-color: blue;
     color: black;
