@@ -1,0 +1,18 @@
+.studentA {
+    float: left;
+
+    margin-right: 5px;
+    
+    background-color: pink;
+    color: red;
+
+}
+
+.studentB {
+    float: left;
+
+    margin-left: 5px;
+
+    background-color: grey;
+    color: black;
+}
